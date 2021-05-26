@@ -4,7 +4,6 @@ import neo4j.demoproj.pdfparser.dto.DataPointDto;
 import neo4j.demoproj.pdfparser.services.DataPointService;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 import java.util.Map;
 
 @RestController
